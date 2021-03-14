@@ -1,0 +1,103 @@
+{
+  // Workbench Options
+  "workbench.colorTheme": "TT Max Marine",
+  "workbench.iconTheme": "redberry-icons",
+  "workbench.activityBar.visible": true,
+  "workbench.editor.showIcons": true,
+  "workbench.editor.tabCloseButton": "right",
+  "workbench.list.smoothScrolling": true,
+  "workbench.sideBar.location": "left",
+  "workbench.editor.highlightModifiedTabs": false,
+  "workbench.settings.openDefaultSettings": false,
+  "workbench.enableExperiments": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.settings.editor": "json",
+  // Editor Options
+  "editor.semanticTokenColorCustomizations": {
+  "enabled": false
+  },
+  "editor.fontFamily": "Bitstream Vera Sans Mono",
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "400",
+  "editor.suggestFontSize": 0,
+  "editor.tabSize": 1.8,
+  "editor.lineHeight": 0,
+  "editor.letterSpacing": 1.0,
+  "editor.lightbulb.enabled": true,
+  "editor.comments.ignoreEmptyLines": false,
+  "editor.minimap.enabled": true,
+  "editor.minimap.side": "left",
+  "editor.minimap.renderCharacters": true,
+  "editor.minimap.maxColumn": 100,
+  "editor.renderWhitespace": "selection",
+  "editor.wordWrap": "on",
+  "editor.autoIndent": "brackets",
+  "editor.renderLineHighlight": "none",
+  "editor.glyphMargin": false,
+  "editor.renderIndentGuides": true,
+  "editor.selectionHighlight": true,
+  "editor.suggestSelection": "first",
+  "editor.semanticHighlighting.enabled": false,
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.renderControlCharacters": false,
+  // Window Flags
+  "window.zoomLevel": -0.5,
+  "window.titleBarStyle": "native",
+  "window.menuBarVisibility": "hidden",
+  // Git Options
+  "git.autofetch": true,
+  "git.alwaysSignOff": true,
+  "git.defaultCloneDirectory": "E:\\Master\\github",
+  "git.autoRepositoryDetection": "subFolders",
+  "git.path": "C:\\Program Files\\Git\\bin\\git.exe",
+  "git.postCommitCommand": "sync",
+  "git.scanRepositories": ["E:\\Master"],
+  "gitlens.views.repositories.files.layout": "tree",
+  "gitlens.advanced.repositorySearchDepth": 2,
+  // Explorer Options
+  "explorer.decorations.badges": true,
+  "explorer.openEditors.visible": 10,
+  "explorer.sortOrder": "default",
+  // Miscellaneous Options
+  "breadcrumbs.enabled": true,
+  "files.autoSave": "afterDelay",
+  "files.autoGuessEncoding": true,
+  "update.showReleaseNotes": false,
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "vikings-icon-theme.showWelcomeMessage": false,
+  // Disable Red Sidebar Errors
+  "problems.decorations.enabled": false,
+  "telemetry.enableTelemetry": false,
+  "C_Cpp.updateChannel": "Insiders",
+  "cmake.configureOnOpen": true,
+  // Extension Options
+  "todo-tree.tree.showScanModeButton": false,
+  "powermode.enabled": true,
+  // Java
+  "java.semanticHighlighting.enabled": true,
+  // Project Manager
+  "projectManager.git.baseFolders": ["C:\\Users\\Gwilym Williams\\°dev"],
+  // Python
+  "python.languageServer": "Microsoft",
+  // Markdownlint
+  "markdownlint.customRules": [
+  "{docsmsft.docs-linting}/markdownlint-custom-rules/rules.js"
+  ],
+  "markdownlint.config": {
+  "MD028": false
+  },
+  // Customize UI
+  "customizeUI.font.regular": "Aero Matics Light Regular",
+  "customizeUI.font.monospace": "Bitstream Vera Sans Mono",
+  "customizeUI.activityBar": "bottom",
+  "customizeUI.activityBarHideSettings": false,
+  // cSpell
+  "cSpell.language": "en-GB",
+  "cSpell.enableFiletypes": ["!plaintext"],
+}
